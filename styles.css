@@ -1,11 +1,17 @@
-body {
-    color: white;
-    background: black;
-} 
-
 header {
     border-bottom: solid 2px rgb(81, 62, 150);
     padding: 20px;
     font-size: 32px;
     color: rgb(87, 61, 129);
+}
+body {
+    color: white;
+    background: black;
+} 
+section {
+    background: rgb(104, 80, 129);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
