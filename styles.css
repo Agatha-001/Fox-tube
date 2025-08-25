@@ -11,7 +11,13 @@ body {
      margin: 0px;
     font-family: "Chakra Petch", sans-serif;
 } 
-
+.chamada {
+  background: rgb(184, 156, 213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
 section {
     background: rgb(104, 80, 129);
     padding-bottom: 80px;
