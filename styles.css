@@ -11,10 +11,24 @@ body {
      margin: 0px;
     font-family: "Chakra Petch", sans-serif;
 } 
+
 section {
     background: rgb(104, 80, 129);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+.videos-comida {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+section {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.categoria {
+  padding-left: 20px;
+  padding-right: 20px;
 }
