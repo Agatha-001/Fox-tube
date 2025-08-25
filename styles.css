@@ -22,7 +22,7 @@ section {
 .videos-comida {
   display: flex;
   overflow-x: auto;
-  gap: 10px;
+  gap: 5px;
 }
 section {
   padding-left: 20px;
