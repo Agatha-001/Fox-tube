@@ -17,9 +17,7 @@ body {
   padding-top: 80px;
   display: flex;
   justify-content: center;
-}
-videos-skin{
-  height: 150px;
+  gap: 90px;
 }
 section {
     background: rgb(104, 80, 129);
