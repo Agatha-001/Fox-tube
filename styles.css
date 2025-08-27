@@ -9,14 +9,17 @@ body {
     color: white;
     background: black;
      margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
-} 
+    
+}
 .chamada {
   background: rgb(184, 156, 213);
   padding-bottom: 80px;
   padding-top: 80px;
   display: flex;
   justify-content: center;
+}
+videos-skin{
+  height: 150px;
 }
 section {
     background: rgb(104, 80, 129);
